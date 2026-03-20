@@ -496,9 +496,6 @@ Covered exclusively: lost income caused by verified external disruptions (weathe
 
 ---
 
-## Submission Links
-
-- **Demo Video (2-min):** [Link to be added]
 
 ---
 
